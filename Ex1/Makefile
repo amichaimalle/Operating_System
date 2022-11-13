@@ -1,2 +1,2 @@
-Program: ex1_OpSys.c
-	gcc ex1_OpSys.c -o OS -lpthread
+Program: Ex1.c
+	gcc Ex1.c -o OS -lpthread
